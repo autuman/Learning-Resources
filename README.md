@@ -11,6 +11,7 @@ Matplotlib: https://matplotlib.org/
 Pillow: https://pillow.readthedocs.io/en/latest/  
 
 # Tutorials and Code examples
+100 Numpy exercises: https://github.com/rougier/numpy-100/blob/master/100%20Numpy%20exercises.md
 Keras Examples: https://github.com/keras-team/keras/tree/master/examples  
 Deep learning Series with Theano: http://deeplearning.net/tutorial/contents.html  
 Neural Network with Theano: https://github.com/dennybritz/nn-theano  
