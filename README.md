@@ -30,7 +30,7 @@ NIPS 2016 Tutorial: Generative Adversarial Networks： https://arxiv.org/abs/170
 VAE Auto-Encoding Variational Bayes: https://arxiv.org/abs/1312.6114  
 Wasserstein GAN: https://arxiv.org/abs/1701.07875  
 
-# Books：
+# ML Books
 AI-A Modern Approach  
 An Introduction to Statistical Learning  
 The Elements of Statistical Learning   
