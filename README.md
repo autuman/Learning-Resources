@@ -2,14 +2,13 @@
 Learning resources related to Python, Machine learning, Papers, Libraries etc.
 
 # Software Libraries
-Theano: http://www.deeplearning.net/software/theano/
-
-Keras: https://github.com/keras-team/keras
-Numpy: http://www.numpy.org/
-Pandas: https://pandas.pydata.org/
-Scikit-learn: http://scikit-learn.org/stable/
-Matplotlib: https://matplotlib.org/
-Pillow: https://pillow.readthedocs.io/en/latest/
+Theano: http://www.deeplearning.net/software/theano/ 
+Keras: https://github.com/keras-team/keras 
+Numpy: http://www.numpy.org/ 
+Pandas: https://pandas.pydata.org/ 
+Scikit-learn: http://scikit-learn.org/stable/ 
+Matplotlib: https://matplotlib.org/ 
+Pillow: https://pillow.readthedocs.io/en/latest/ 
 
 # Tutorials and Code examples
 Keras Examples: https://github.com/keras-team/keras/tree/master/examples
