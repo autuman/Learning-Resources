@@ -3,6 +3,7 @@ Learning resources related to Python, Machine learning, Papers, Libraries etc.
 
 # Software Libraries
 Theano: http://www.deeplearning.net/software/theano/
+
 Keras: https://github.com/keras-team/keras
 Numpy: http://www.numpy.org/
 Pandas: https://pandas.pydata.org/
