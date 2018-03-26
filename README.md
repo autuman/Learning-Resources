@@ -36,6 +36,8 @@ AI-A Modern Approach
 An Introduction to Statistical Learning  
 The Elements of Statistical Learning   
 Machine Learning A Probabilistic Perspective  
+Algorithms for Reinforcement Learning  
+Reinforcement Learning: An Introduction  
 OpenIntro Statistics  
 statistics by freedman   
 
