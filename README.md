@@ -1,6 +1,9 @@
 # Learning-Resources
 Learning resources related to Python, Machine learning, Papers, Libraries etc.
 
+# Free programming books
+https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md
+
 # Software Libraries
 Theano: http://www.deeplearning.net/software/theano/  
 Keras: https://github.com/keras-team/keras  
